@@ -13,11 +13,10 @@ set FORMATO=%DIA%/%MES%/%ANO%
 @echo       *******************************************************************
 @echo       *******************************************************************
 @echo       ***                                                             ***
-@echo       ***   COMANDO DE POLICIAMENTO DE AREA ONZE - AGENCIA REGIONAL   ***
-@echo       ***    SISTEMA DE BACKUP AUTOMATICO DO BANCO DE DADOS V 1.0     ***
-@echo       ***                  CRIADO POR CB PM COLLURA                   ***
-@echo       ***                       DATA %FORMATO%                       ***
-@echo       *** 							      ***
+@echo       ***   	       SISTEMA DE BACKUP AUTOMATICO                 ***
+@echo       ***                  CRIADO POR BETTO COLLURA                   ***
+@echo       ***                       DATA %FORMATO%                        ***
+@echo       *** 							    ***
 @echo       *******************************************************************
 @echo       *******************************************************************
 @echo.
